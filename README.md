@@ -18,7 +18,7 @@
 1. `.env` ファイルを作成し、整理対象のディレクトリパスを設定。
 
     ```sh
-    TARGET_DIR=/Users/UnoHa/Documents/ScreenShot
+    TARGET_DIR=/path/to/your/ScreenShot
     ```
 
 2. `.env` ファイルをプロジェクトのルートディレクトリに配置。
