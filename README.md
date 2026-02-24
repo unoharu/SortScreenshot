@@ -97,14 +97,6 @@ SortScreenshot/
 
 ---
 
-## 注意事項
-
-- スクリプトは **移動（`mv`）** を行うため、実行後に元ディレクトリからファイルはなくなります。
-- `.env` の `TARGET_DIR` が誤っていると意図しない場所を整理する可能性があります。
-- macOS の `stat -f` を使用しているため、Linux 環境ではそのまま動作しません。
-
----
-
 ## 実行デモ
 
 ![Sort_ScreenShot](https://github.com/user-attachments/assets/890a14da-5ac9-4884-9394-b0f015105f16)
