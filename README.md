@@ -2,6 +2,8 @@
 
 > 指定フォルダ内のファイルを作成日ごとに自動で仕分ける、macOS 向け Bash スクリプト。
 
+<img width="2816" height="1536" alt="SortScreenshot" src="https://github.com/user-attachments/assets/c087f380-ff5a-4e00-801d-e61680bfb24c" />
+
 ---
 
 ## 概要
